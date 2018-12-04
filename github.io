@@ -3,12 +3,12 @@
 <head>
 	<img src="mac.jpeg">
 	<img src="29906170001_5803589356001_5803581570001-vs.jpg"
-	SONG GENERATOR
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
 	<title>
-		<p>PICK THE EMOTION THAT BEST DESCRIBES YOU RIGHT NOW</p></title>
+		</title>
 </head>
 <body>
+	<p>SONG GENERATOR</p>
 	<background-color:"black">
 	<p style="color: white">
 	<li>
