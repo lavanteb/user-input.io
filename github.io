@@ -6,7 +6,7 @@
 	<title>PICK THE EMOTION THAT BEST DESCRIBES YOU RIGHT NOW</title>
 </head>
 <body>
-	<img src="medium_7Rn-E4IZyoLTE42vEg96hIIN27GHDQ8pLVC9qXW5ZkE.jpg">
+	<img src="mac.jpeg">
 	<background-color:"black">
 	<p style="color: white">
 	<li>
